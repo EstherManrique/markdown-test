@@ -78,6 +78,9 @@ print('hello word);
 * [ ] Task 2
 * [ ] Task 3
 * [ ] Task 4
-* [ ] Task 5
+* [X ] Task 5
+
+
+@codev :smiley: :ok_woman: :+1:
 
 
